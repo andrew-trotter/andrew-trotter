@@ -1,21 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Andrew 👋
 
-<!--
-**andrew-trotter/andrew-trotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a tool to scan multiple repositories commit histories for data analysis.
+
+- 🌱 I’m currently learning **GraphQL and React**
+
+- 💬 Ask me about: Web Development and anything tech!
+
+- 📫 How to reach me: andrewjtrotter@gmail.com
 
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-grabczewski&hide_longest_streak=true" alt="daniel-grabczewski" style="height: 200px;" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-trotter&show_icons=true&locale=en&layout=compact" alt="andrew-trotter" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-trotter&show_icons=true&locale=en&layout=compact&bg_color=101827&title_color=FFFFFF&text_color=de00ff" alt="andrew-trotter" style="height: 200px" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=andrew-trotter&bg_color=101827&title_color=FFFFFF&text_color=de00ff" style="height: 200px width: 600px;"/>
 </p>
