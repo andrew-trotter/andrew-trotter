@@ -90,7 +90,6 @@
 </p>
 
 
-%%This is for later when I have more date for code%%
 [//]: # (<p align="center">)
 [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewtrotter" />)
 [//]: # (</p>)
