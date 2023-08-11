@@ -40,9 +40,6 @@
       <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png" alt="knex" width="40" height="40"/>
     </a>
     <h3>Tools</h3>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
