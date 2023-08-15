@@ -87,6 +87,6 @@
 </p>
 
 
-[//]: # (<p align="center">)
-[//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewtrotter" />)
-[//]: # (</p>)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewtrotter" />
+</p>
