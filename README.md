@@ -30,9 +30,9 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+   <!--- <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40">
-    </a>
+    </a> --->
     <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
       <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="react query" width="40" height="40"/>
     </a>
@@ -62,16 +62,19 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40">
     </a>
-    <a href="" target="_blank" rel="noreferrer">
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40">
-      </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40">
     </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+    </a>
+    <!--- <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40">
+    </a> --->
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40">
     </a>
-      <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40">
     </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
@@ -87,6 +90,6 @@
 </p>
 
 
-<p align="center">
+<!---<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewtrotter&show_icons=true&bg_color=101827&title_color=FFFFFF&text_color=de00ff&icon_color=CCCCCC" />
-</p>
+</p>--->
