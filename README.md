@@ -10,7 +10,6 @@
 
 - 📫 How to reach me: andrewjtrotter@gmail.com
 
-
 <div align="center">
   <h3>Languages</h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -68,9 +67,6 @@
     </a> -->
     <a href="" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-    </a>
-    <a href=""  target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="background-color:#ffffff"  alt="next" width="40" height="40" />
     </a>
     <!--- <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40">
