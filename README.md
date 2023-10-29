@@ -4,11 +4,12 @@
 
 - 🔭 I’m currently working on a tool to scan multiple repositories commit histories for data analysis.
 
-- 🌱 I’m currently learning **GraphQL, React and other technologies**
+- 🌱 I’m currently learning **GraphQL, React and Next.js**
 
-- 💬 Ask me about: Web Development and anything tech!
+- 💬 Ask me about: Web Development, AI and anything tech!
 
 - 📫 How to reach me: andrewjtrotter@gmail.com
+
 
 <div align="center">
   <h3>Languages</h3>
@@ -67,6 +68,9 @@
     </a> -->
     <a href="" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+    </a>
+    <a href=""  target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="background-color:#ffffff"  alt="next" width="40" height="40" />
     </a>
     <!--- <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40">
