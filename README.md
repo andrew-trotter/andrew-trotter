@@ -84,9 +84,9 @@
 
 <p align="center">
 <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-trotter&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=donut&bg_color=101827&title_color=de00ff&text_color=ffffff&font_size=50px" alt="andrew-trotter" style="" />
+  <img src="https://github-readme-stats-beta-taupe.vercel.app/api/top-langs?username=andrew-trotter&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&layout=donut&bg_color=101827&title_color=de00ff&text_color=ffffff&font_size=50px" alt="andrew-trotter" style="" />
 </p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andrew-trotter&show_icons=true&rank_icon=github&bg_color=101827&title_color=de00ff&text_color=ffffff&icon_color=de00ff" style="height: 200px width: 600px;"/>
+<img src="https://github-readme-stats-beta-taupe.vercel.app/api?username=andrew-trotter&show_icons=true&rank_icon=github&bg_color=101827&title_color=de00ff&text_color=ffffff&icon_color=de00ff" style="height: 200px width: 600px;"/>
 </p>
 
 
