@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: Web Development, AI and anything tech!
 
-- 📫 How to reach me: andrewjtrotter@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrewjtrotter/)
 
 <div align="center">
   <h3>Languages</h3>
@@ -71,9 +71,9 @@
     <!--- <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="40" height="40">
     </a> --->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40">
-    </a>
+    </a> -->
 <!--     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" height="40">
     </a> -->
