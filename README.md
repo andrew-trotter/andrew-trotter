@@ -15,7 +15,7 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40">
     </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" alt="dot-net" width="40"                 height="40">
     </a>
 <!--     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -46,6 +46,9 @@
       <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png" alt="knex" width="40" height="40"/>
     </a>
     <h3>Tools</h3>
+    <a href="https://azure.microsoft.com/en-gb/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
