@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on a tool to scan multiple repositories commit histories for data analysis.
+- 🔭 I’m currently working on being a better developer day by day.
 
-- 🌱 I’m currently learning **GraphQL, React and Next.js**
+- 🌱 I’m currently learning **Azure Cloud services and Boot.dev**
 
 - 💬 Ask me about: Web Development, AI and anything tech!
 
